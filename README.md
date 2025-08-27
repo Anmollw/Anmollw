@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol</h1>
 <h3 align="center">An 18 year old starting his Programming Journey</h3>
 
-- 🌱 I’m currently learning ** Typescript, Next.js**
+- 🌱 I’m currently learning **Typescript, Next.js**
 - 🔭 Currently building **MERN Stack Projects**
 
 
